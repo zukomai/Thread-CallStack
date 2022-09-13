@@ -13,12 +13,13 @@ I spent day five learning about Javascript "under the hood" from the [Traversy M
     - The flow of control is sequential, as we see in the single thread image. 
 
 2. What is the *Call Stack*? 
+    - **A mechanism for an interpreter to keep track of its place in a script that calls multiple functions.**
     - Stack of functions to be executed: <Br>
-    <img src="/img/call-stack/png" alt="Call Stack Example" width="300px"> <br>
+    <img src="/img/call-stack.png" alt="Call Stack Example" width="300px"> <br>
     - Manages execution contexts (global, local): <br>
     <img src="/img/execution-context.png" alt="Execution Context Example" width="300px"> <br>
     - Stacks are Last In First Out (LIFO): <br>
-    <img src="/img/lifo.png" alt="LIFO Example" width="300px"> 
+    <img src="/img/lifo.png" alt="LIFO Example" width="300px"> <br>
 
 3. Demo of Call Stack in the Browser
     - Debug mode in Firefox showing how the call stack works by calling three functions. Stop point put on the second function, call stack can be found in the bottom right corner of the screen. 
