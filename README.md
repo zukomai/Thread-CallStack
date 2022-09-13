@@ -3,7 +3,20 @@ Day 5/100 of Coding Challenge ✅
 
 I spent day five learning about Javascript "under the hood" from the [Traversy Media](https://youtu.be/-G9c4CMMUKc) Channel. 
 
-## Main Takeaways from Thread and Call Stack Video
+## What I Learned
+1. How to use the **Debugger** tool in Firefox: 
+    - Creating breakpoints.
+    - Stepping through code, line by line.
+    - Viewing the Call Stack area inside the **Debugger**.
+
+2. What the Call Stack and Heap is in Javascript:
+    - The *Call Stack* is useful for the interpreter to keep track of its place in the script when calling multiple functions.
+    - The *Heap* is a sifferent space for storing data; such as objects and functions. Does not allocate fixed memory for these objects.
+ 3. Synchronous vs. Asynchronous:
+    - *Synchronous*: Single-Thread Code Execution
+    - *Asynchronous*: Multi-Thread Code Execution
+
+## Notes From Video
 1. Javascript is a single-threaded language:
     - Javascript is known as a synchronous language (single thread) with *asynchronous* capabilities (multi-thread):
     - Only uses *one* call stack and memory heap to execute the program.
