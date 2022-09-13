@@ -7,5 +7,5 @@ I spent day five learning about Javascript "under the hood" from the [Traversy M
 1. Javascript is a single-threaded language:
     - Only uses *one* call stack and memory heap to execute the program.
     - Execution of instructions are in a single sequence. 
-    ![Single Thread](/img/single-thread-ex.png "Example of code execution in single-thread")
-    ![Multi Thread](/img/multi-threaded-ex.png "Example of code execution in multi-thread")
+    ![Single Thread](/img/single-thread-ex.png "Example of code execution in single-thread" | width=200)
+    ![Multi Thread](/img/multi-threaded-ex.png "Example of code execution in multi-thread" | width=200)
