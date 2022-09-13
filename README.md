@@ -14,10 +14,14 @@ I spent day five learning about Javascript "under the hood" from the [Traversy M
 
 2. What is the *Call Stack*? 
     - Stack of functions to be executed: 
-    <img src="/img/call-stack" alt="Call Stack Example" width="300px"> <br>
+    <img src="/img/call-stack/png" alt="Call Stack Example" width="300px"> <br>
     - Manages execution contexts (global, local):
-    <img src="/img/execution-context" alt="Execution Context Example" width="300px"> <br>
+    <img src="/img/execution-context.png" alt="Execution Context Example" width="300px"> <br>
     - Stacks are Last In First Out (LIFO):
-    <img src="/img/lifo" alt="LIFO Example" width="300px"> <br>
+    <img src="/img/lifo.png" alt="LIFO Example" width="300px"> <br>
+    - Debug mode in Firefox showing how the call stack works by calling three functions. Stop point put on the second function, call stack can be found in the bottom right corner of the screen.
+    <img src="/img/debugging.png" alt="Call Stack in Firefox Demonstration" width="300px"> <br>
+
+
 
 
