@@ -1,4 +1,5 @@
 # Thread and Call Stack 
+Day 5/100 of Coding Challenge ✅
 
 I spent day five learning about Javascript "under the hood" from the [Traversy Media](https://youtu.be/-G9c4CMMUKc) Channel. 
 
